@@ -57,13 +57,13 @@ avatar: "/img/avatar.jpg"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Frederik Kratzert
-  email: "f.kratzert@gmail.com"
-  github: kratzert
-  twitter: fkratzert
-  linkedin: frederik-kratzert-226a33148
-  xing: yourname
-  stackoverflow: yourlink
+  name: Sam Foxman + Andy Zheng
+  email: "elasticvine@protonmail.com"
+  github: XMB5
+  #twitter: fkratzert
+  #linkedin: frederik-kratzert-226a33148
+  #xing: yourname
+  #stackoverflow: yourlink
 
 
 # Select which links to show in the footer
@@ -71,19 +71,19 @@ footer-links-active:
   rss: true
   facebook: false
   email: true
-  twitter: true
+  twitter: false
   github: true
-  linkedin: true
+  linkedin: false
   xing: false
   stackoverflow: false
 
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
+  twitter: false
+  facebook: false
   google: false
-  linkedin: true
+  linkedin: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
