@@ -10,3 +10,8 @@ Koma is an atmospheric restaurant that specializes in catering birthday parties 
 {% include carousel.html height="50" unit="%" duration="7" %}
 
 
+images:
+- image: img/avatar.jpg
+- image: img/avatar.jpg
+- image: img/avatar.jpg
+- image: img/avatar.jpg
