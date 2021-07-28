@@ -4,4 +4,4 @@ title: About Us
 subtitle:
 ---
 
-We are a team of High School Seniors developping websites for local Connecticut businesses.
+We are a team of High School Seniors developing websites for local Connecticut businesses. 
