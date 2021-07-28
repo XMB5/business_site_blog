@@ -7,6 +7,6 @@ excerpt: Koma Japanese Hibachi and Sushi is a japanese restaurant located in Bis
 
 Koma is an atmospheric restaurant that specializes in catering birthday parties , special celebrations and kid-friendly hibachi shows. The food they specialize in has influences from different asian countries such as Japan, and China. [located](https://goo.gl/maps/NEXcrm48DVskbuke7) in Bishops Corner West Hartford CT. 
 
-
+![clean interior](https://s3-media0.fl.yelpcdn.com/bphoto/WX5Zli8nWqIc_M9xOZO1Xw/l.jpg)
 
 
