@@ -11,4 +11,4 @@ excerpt: Weha Washes is a mobile car washing and detailing company started by 2 
 
 <!-- Images -->
 
-![Will and Kalin](img/wehawashespicture.jpg)
+![Will and Kallen](img/wehawashespicture.jpg)
