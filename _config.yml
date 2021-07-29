@@ -59,6 +59,7 @@ author:
   name: Sam Foxman + Andy Zheng
   email: "elasticvine@protonmail.com"
   github: XMB5
+  github: Holowpoint12
   #twitter: fkratzert
   #linkedin: frederik-kratzert-226a33148
   #xing: yourname
@@ -87,6 +88,7 @@ share-links-active:
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
 url-pretty: "xmb5.github.io/business_site_blog"  # eg. "deanattali.com/beautiful-jekyll"
+
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
