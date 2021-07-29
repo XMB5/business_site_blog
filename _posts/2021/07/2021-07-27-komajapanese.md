@@ -17,3 +17,5 @@ We designed a clean, modern website for them using HTML, CSS and JavaScript with
 - Multiple slideshows of the interior and food
 - Description of their history and what food they provide
 - Custom designed and sized pictures
+
+![Screenshot](../../../images/koma/ss.PNG)
