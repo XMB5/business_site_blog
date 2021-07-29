@@ -14,5 +14,4 @@ We designed a website for them with
 - Image gallery highlighting past work
 - Embedded Google Form to schedule an appointment
 
-[https://wehawashes.com/](https://wehawahses.com/)
 ![Homepage Screenshot](../../../images/weha_washes/homepage.png)
