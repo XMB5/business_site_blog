@@ -24,8 +24,9 @@ description: Websites for Connecticut Businesses
 # List of links in the navigation bar
 navbar-links:
   About Us: "aboutus"
-  Projects: "projects"
   Our Mission: "mission"
+  Projects: "projects"
+  Contact Us: "Contactus"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
