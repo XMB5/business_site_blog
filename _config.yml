@@ -37,7 +37,7 @@ navbar-links:
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-# title-img: /path/to/image
+#title-img: /path/to/image
 
 # --- Background colour/image options --- #
 
@@ -56,7 +56,7 @@ navbar-links:
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Sam Foxman + Andy Zheng
+  name: Sam Foxman + [Andy Zheng](https://github.com/Holowpoint12)
   email: "elasticvine@protonmail.com"
   github: XMB5
   #twitter: fkratzert
