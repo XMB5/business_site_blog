@@ -5,7 +5,7 @@ subtitle:
 ---
 
 
-Phone number (preferably text): (860)-967-6128 
+Phone number (texting preferred): (860)-967-6128 
 
 Email: iunctioproject@gmail.com
 
