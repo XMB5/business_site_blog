@@ -5,9 +5,9 @@ subtitle:
 ---
 
 
-Phone number (texting preferred): (860)-967-6128 
+Phone number (texting preferred): [(860) 967-6128](tel:+1-860-967-6128)
 
-Email: iunctioproject@gmail.com
+Email: [iunctionproject@gmail.com](mailto:iunctionproject@gmail.com)
 
 **We are avaliable almost every day and will get back to you as soon as possible!**
 
